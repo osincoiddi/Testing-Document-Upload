@@ -1,0 +1,1 @@
+ytest -s -v testCases/test_001_ExamplesPage.py  --browser firefox
