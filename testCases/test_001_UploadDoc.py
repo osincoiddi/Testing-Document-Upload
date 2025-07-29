@@ -2,7 +2,7 @@ import time
 
 import pynput.keyboard
 import pytest
-from ProjectObject.UploadDoc import UploadDocPage
+from PageObject.UploadDoc import UploadDocPage
 from utilities.customlog import LogGen
 
 
