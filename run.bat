@@ -1,1 +1,1 @@
-ytest -s -v testCases/test_001_ExamplesPage.py  --browser firefox
+ pytest -s -v testCases/test_001_UploadDoc.py  --browser firefox
